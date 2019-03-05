@@ -1,2 +1,2 @@
-# Multithreading1
-Multithreading1
+# 该项目为线程快速入门代码
+主要涵盖：线程的创建、启动等。
